@@ -1,0 +1,6 @@
+{
+  "name": "Ayyan Real Estate",
+  "description": "Minimalist luxury real estate portfolio, curated property listings, high-resolution architectural galleries, advisor profiles, client testimonials, and private appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
